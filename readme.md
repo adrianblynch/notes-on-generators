@@ -4,11 +4,13 @@ My notes as I read through [The Definitive Guide to the JavaScript Generators](h
 
 - Generators return iterators
 
-	generator = function * () {
+	Code >>>
+	
+		generator = function * () {
 
-	}; // A generator
+		}; // A generator
 
-	iterator = gen(); // Calling a generator returns an iterator object
+		iterator = gen(); // Calling a generator returns an iterator object
 
 - The generator is not run when called:
 
