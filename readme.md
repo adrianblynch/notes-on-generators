@@ -1,12 +1,14 @@
-Generators in JS
+# Notes on generators
 
 - Generators return iterators
 
+	```
 	generator = function * () {
 
 	}; // A generator
 
 	iterator = gen(); // Calling a generator returns an iterator object
+	```
 
 - The generator is not run when called:
 
