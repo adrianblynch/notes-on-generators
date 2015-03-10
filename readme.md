@@ -114,3 +114,5 @@ My notes as I read through [The Definitive Guide to the JavaScript Generators](h
 		{value: "Hello", done: false}
 		{value: "World", done: false}
 		{value: "!",     done: true}
+
+Move still to come...
